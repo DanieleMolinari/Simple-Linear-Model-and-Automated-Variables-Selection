@@ -1,2 +1,2 @@
-# Simple-Linear-Model-and-Aitomated-Variable-Selection
+# Simple-Linear-Model-and-Automated-Variable-Selection
 Linear models to predict houses price. 
